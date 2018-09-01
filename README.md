@@ -1,4 +1,4 @@
-# KEYBOARD SHORTCUTS
+# PROGRAMMING KEYBOARD SHORTCUTS
 
 
 ### Cut, Copy, Paste
@@ -104,7 +104,7 @@ Also, try using these commands in your browser. They work there too! Only differ
 ## Atom keyboard shortcuts
 - [https://github.com/nwinkler/atom-keyboard-shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
 
-## Other editors have keyboard shortcuts too! Check out |
+## Other editors have keyboard shortcuts too! Check out:
 - [Notepad++ Cheatsheet](https://drive.google.com/a/udacity.com/file/d/0B86nuTd5nMTKaENHcmliUC1kdnc/edit)
 - [Emacs Reference](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 - [Vi / Vim Cheatsheet](http://www.lagmonster.org/docs/vi.html)
