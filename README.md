@@ -98,13 +98,13 @@ Look like a dynamo creating new tabs, swapping between tabs, and closing tabs. C
 Also, try using these commands in your browser. They work there too! Only difference is ⌘ + N (Mac) or Ctrl + N (Windows/Linux) will open a new window in the browser and ⌘ + T (Mac) or Ctrl + T (Windows/Linux) will open a new tab.
 
 ## Sublime Text keyboard shortcuts
-- [http |//docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html](http |//docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)(Mac)
-- [http |//docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html](http |//docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
+- [http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)(Mac)
+- [http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
 
 ## Atom keyboard shortcuts
-- [https |//github.com/nwinkler/atom-keyboard-shortcuts](https |//github.com/nwinkler/atom-keyboard-shortcuts)
+- [https://github.com/nwinkler/atom-keyboard-shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
 
 ## Other editors have keyboard shortcuts too! Check out |
-- [Notepad++ Cheatsheet](https |//drive.google.com/a/udacity.com/file/d/0B86nuTd5nMTKaENHcmliUC1kdnc/edit)
-- [Emacs Reference](https |//www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
-- [Vi / Vim Cheatsheet](http |//www.lagmonster.org/docs/vi.html)
+- [Notepad++ Cheatsheet](https://drive.google.com/a/udacity.com/file/d/0B86nuTd5nMTKaENHcmliUC1kdnc/edit)
+- [Emacs Reference](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+- [Vi / Vim Cheatsheet](http://www.lagmonster.org/docs/vi.html)
