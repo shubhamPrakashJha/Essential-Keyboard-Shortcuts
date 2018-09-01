@@ -30,13 +30,12 @@
 - Move Cursor to End of Document: Ctrl + End
 
 ### Jump
-Mac
 - Jump to Opening/Closing Parentheses, Brackets, Braces: Ctrl + M
 - Jump to Definition: Ctrl + R
 
 ### Indent, Unindent
-Indent: Tab or Ctrl + ]
-Unindent: ⇧ + Tab or Ctrl + [
+- Indent: Tab or Ctrl + ]
+- Unindent: ⇧ + Tab or Ctrl + [
 
 ### Toggle Comment
 - Ctrl + /
