@@ -1,120 +1,88 @@
 # KEYBOARD SHORTCUTS
 
-## WINDOWS/LINUX
 
 ### Cut, Copy, Paste
 
-- Cut: Ctrl + X
-- Copy: Ctrl + C
-- Paste: Ctrl + V
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Cut | `Ctrl + X` | `⌘ + X`  |
+| Copy | `Ctrl + C` | `⌘ + C`  |
+| Paste | `Ctrl + V` | `⌘ + V`  |
 
 ### Undo, Redo
-- Undo: Ctrl + Z
-- Redo: Ctrl + ⇧ + Z or Ctrl + Y
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Undo | `Ctrl + Z` | `⌘ + Z` |
+| Redo | `Ctrl + ⇧ + Z` or `Ctrl + Y` | `⌘ + ⇧ + Z` or `⌘ + Y` |
 
 ### Duplicate
-- Ctrl + ⇧ + D with or without text highlighted
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Duplicate with or without text highlighted | `Ctrl + ⇧ + D` | `⌘ + ⇧ + D` |
 
 ### Select
-- Select Word: Ctrl + D
-- Select Line: Ctrl + L
-- Select All: Ctrl + A
-- Select Every Instance of same word: Alt + F3
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Select Word | `Ctrl + D` | `⌘ + D` |
+| Select Line | `Ctrl + L` | `⌘ + L` |
+| Select All | `Ctrl + A` | `⌘ + A` |
+| Select Every Instance of same word | `Alt + F3` | `⌘ + Ctrl + G` |
 
 ### Move Cursor
-- Move Cursor to Previous Word: Ctrl + ←
-- Move Cursor to Next Word: Ctrl + →
-- Move Cursor to Start of Line: Home
-- Move Cursor to End of Line: End
-- Move Cursor to Start of Document: Ctrl + Home
-- Move Cursor to End of Document: Ctrl + End
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Move Cursor to Previous Word | `Ctrl + ←` | `Alt + ←` |
+| Move Cursor to Next Word | `Ctrl + →` | `Alt + →` |
+| Move Cursor to Start of Line | `Home` | `⌘ + ←` |
+| Move Cursor to End of Line | `End` | ` ⌘ + →` |
+| Move Cursor to Start of Document | `Ctrl + Home` | `⌘ + ↑` |
+| Move Cursor to End of Document | `Ctrl + End` | `⌘ + ↓` |
 
 ### Jump
-- Jump to Opening/Closing Parentheses, Brackets, Braces: Ctrl + M
-- Jump to Definition: Ctrl + R
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Jump to Opening/Closing Parentheses, Brackets, Braces | `Ctrl + M` | `Ctrl + M` |
+| Jump to Definition | `Ctrl + R` | `⌘ + R` |
 
 ### Indent, Unindent
-- Indent: Tab or Ctrl + ]
-- Unindent: ⇧ + Tab or Ctrl + [
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Indent | `Tab` or `Ctrl + ]` | `Tab` or `⌘ + ]` |
+| Unindent | `⇧ + Tab` or `Ctrl + [` | `⇧ + Tab` or `⌘ + [` |
 
 ### Toggle Comment
-- Ctrl + /
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Toggle Comment | `Ctrl + /` | `⌘ + /` |
 
 ### Tab Management
-- New Tab: Ctrl + N
-- Switch Tab Left: Ctrl + PgUp
-- Switch Tab Right: Ctrl + PgDn
-- Close Tab: Ctrl + W
-- Reopen Tab: Ctrl + ⇧ + T
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| New Tab | `Ctrl + N` | `⌘ + N` |
+| Switch Tab Left | `Ctrl + PgUp` | `⌘ + ⇧ + [` |
+| Switch Tab Right | `Ctrl + PgDn` | `⌘ + ⇧ + ]` |
+| Close Tab | `Ctrl + W` | `⌘ + W` |
+| Reopen Tab | `Ctrl + ⇧ + T` | `⌘ + ⇧ + T` |
 
 ### Quick Open
-- Ctrl + P
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Quick Open File| `Ctrl + P` | `⌘ + P` |
 
 ### Find
-- Ctrl + F
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Find | `Ctrl + F` | `⌘ + F` |
 
-## MAC
-
-### Cut, Copy, Paste
-
-- Cut: ⌘ + X
-- Copy: ⌘ + C
-- Paste: ⌘ + V
-
-### Undo, Redo
-- Undo: ⌘ + Z
-- Redo: ⌘ + ⇧ + Z or ⌘ + Y
-
-### Duplicate
-- ⌘ + ⇧ + D with or without text highlighted
-
-### Select
-- Select Word: ⌘ + D
-- Select Line: ⌘ + L
-- Select All: ⌘ + A
-- Select Every Instance: ⌘ + Ctrl + G
-
-### Move Cursor
-- Move Cursor to Previous Word: Alt + ←
-- Move Cursor to Next Word: Alt + →
-- Move Cursor to Start of Line: ⌘ + ←
-- Move Cursor to End of Line: ⌘ + →
-- Move Cursor to Start of Document: ⌘ + ↑
-- Move Cursor to End of Document: ⌘ + ↓
-
-### Jump
-Mac
-- Jump to Opening/Closing Parentheses, Brackets, Braces: Ctrl + M
-- Jump to Definition: ⌘ + R
-
-### Indent, Unindent
-- Indent: Tab or ⌘ + ]
-- Unindent: ⇧ + Tab or ⌘ + [
-
-### Toggle Comment
-- ⌘ + /
-
-### Tab Management
-- New Tab: ⌘ + N
-- Switch Tab Left: ⌘ + ⇧ + [
-- Switch Tab Right: ⌘ + ⇧ + ]
-- Close Tab: ⌘ + W
-- Reopen Tab: ⌘ + ⇧ + T
-
-### Quick Open
-- ⌘ + P
-
-### Find
-- ⌘ + F
 
 ## Sublime Text keyboard shortcuts
-- [http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)(Mac)
-- [http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
+- [http |//docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html](http |//docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)(Mac)
+- [http |//docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html](http |//docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
 
 ## Atom keyboard shortcuts
-- [https://github.com/nwinkler/atom-keyboard-shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+- [https |//github.com/nwinkler/atom-keyboard-shortcuts](https |//github.com/nwinkler/atom-keyboard-shortcuts)
 
-## Other editors have keyboard shortcuts too! Check out:
-- [Notepad++ Cheatsheet](https://drive.google.com/a/udacity.com/file/d/0B86nuTd5nMTKaENHcmliUC1kdnc/edit)
-- [Emacs Reference](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
-- [Vi / Vim Cheatsheet](http://www.lagmonster.org/docs/vi.html)
+## Other editors have keyboard shortcuts too! Check out |
+- [Notepad++ Cheatsheet](https |//drive.google.com/a/udacity.com/file/d/0B86nuTd5nMTKaENHcmliUC1kdnc/edit)
+- [Emacs Reference](https |//www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+- [Vi / Vim Cheatsheet](http |//www.lagmonster.org/docs/vi.html)
