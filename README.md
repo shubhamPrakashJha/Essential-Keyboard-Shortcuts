@@ -41,8 +41,19 @@
 ### Jump
 | Command | Windows/Linux | macOS |
 | ------- | -------- | ------------ |
-| Jump to Opening/Closing Parentheses, Brackets, Braces | `Ctrl + M` | `Ctrl + M` |
-| Jump to Definition | `Ctrl + R` | `⌘ + R` |
+| Jump to Opening/Closing Tags, Parentheses, Brackets, Braces | `Ctrl + M` | `Ctrl + M` |
+| Jump to Opening Tags, Definition | `Ctrl + R` | `⌘ + R` |
+
+### Quick Open
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Quick Open File| `Ctrl + P` | `⌘ + P` |
+
+### Find
+| Command | Windows/Linux | macOS |
+| ------- | -------- | ------------ |
+| Find | `Ctrl + F` | `⌘ + F` |
+
 
 ### Indent, Unindent
 | Command | Windows/Linux | macOS |
@@ -59,20 +70,10 @@
 | Command | Windows/Linux | macOS |
 | ------- | -------- | ------------ |
 | New Tab | `Ctrl + N` | `⌘ + N` |
-| Switch Tab Left | `Ctrl + PgUp` | `⌘ + ⇧ + [` |
-| Switch Tab Right | `Ctrl + PgDn` | `⌘ + ⇧ + ]` |
+| Switch To Left Tab | `Ctrl + PgUp` | `⌘ + ⇧ + [` |
+| Switch To Right Tab | `Ctrl + PgDn` | `⌘ + ⇧ + ]` |
 | Close Tab | `Ctrl + W` | `⌘ + W` |
 | Reopen Tab | `Ctrl + ⇧ + T` | `⌘ + ⇧ + T` |
-
-### Quick Open
-| Command | Windows/Linux | macOS |
-| ------- | -------- | ------------ |
-| Quick Open File| `Ctrl + P` | `⌘ + P` |
-
-### Find
-| Command | Windows/Linux | macOS |
-| ------- | -------- | ------------ |
-| Find | `Ctrl + F` | `⌘ + F` |
 
 
 ## Sublime Text keyboard shortcuts
